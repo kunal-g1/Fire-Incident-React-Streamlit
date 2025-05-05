@@ -6,7 +6,7 @@ const StreamlitEmbed = () => {
       src="http://localhost:8510"
       title="Streamlit App"
       width="100%"
-      height="801px"
+      height="800px"
       style={{ border: "none" }}
     ></iframe>
   );
